@@ -1,4 +1,4 @@
-# COVID-19-Chest-X-Ray-CPSC340-
+# COVID-19-Chest-X-Ray-CPSC340
 Class project completed Spring 2020 to identify COVID-19 positive chest x-rays
 
 Group project completed by Sophie Boerlage, Breanne Huang, and Anita Mahinpei. Methods discussed together; code written by Sophie Boerlage.
